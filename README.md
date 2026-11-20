@@ -30,4 +30,4 @@ I build actuarial and risk tools in Python and JavaScript: claims reserving, sto
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/riyanekchikach) · riyanekchikach02@gmail.com
+[LinkedIn](https://www.linkedin.com/in/riyanekchikach) · riyane.kchikach@outlook.com
